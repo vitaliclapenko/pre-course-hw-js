@@ -1,6 +1,7 @@
-let number = 1;
 
-console.log(number++); // Выводит 1
-console.log(++number ); // Выводит 3
-console.log(number--); // Выводит 3
-console.log(--number); // Выводит 1
+​let number = 1;
+
+console.log(number++);
+console.log(++number); 
+console.log(number--); 
+console.log(--number);

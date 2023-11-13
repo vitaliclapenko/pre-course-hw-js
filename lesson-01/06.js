@@ -1,6 +1,6 @@
 
 
-let str = "zzzyzzz";
+let str = "zzzzyzz";
 
 if(str.includes("y")){
     console.log("нашел")

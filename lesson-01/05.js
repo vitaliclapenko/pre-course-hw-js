@@ -16,4 +16,5 @@ switch (true) {
      break;
     default:
      console.log("Неверное значение")
+     break;
    }

@@ -3,6 +3,7 @@ function factorial(n) {
         return 1;
     } else {
         return n * factorial(n - 1);
+        debbugger;
     }
 }
 console.log(factorial(5));

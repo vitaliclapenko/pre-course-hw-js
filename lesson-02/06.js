@@ -13,4 +13,5 @@ let newPassportWithAddress = JSON.parse(JSON.stringify(passportWithAddress))
 
 newPassportWithAddress.address.city = "Bobryisk"
 
+console.log(passportWithAddress.address.city)
 console.log(newPassportWithAddress.address.city)

@@ -63,7 +63,6 @@ const users = [
     }
 ];
 
-
 const userFilter = users.filter(obj => obj.id % 2 === 0)
 
 console.log(userFilter)
